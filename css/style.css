@@ -1,0 +1,46 @@
+body{
+	margin: 0;
+}
+
+.head{
+	font-family: 'Sansita Swashed', cursive;
+	font-size: 55px;
+	color:rgb(238, 36, 137)
+}
+
+.main{
+	background: rgb(199, 1, 100);;
+}
+
+.container{
+	background: #E2DDE3;
+}
+
+.input{
+	text-transform: capitalize;
+	color: #ffffff !important;
+	background: rgb(238, 36, 137)!important;
+	font-family: 'Sansita Swashed', cursive;
+	font-weight: 300 !important;
+}
+
+.user{
+	padding: 20px;
+	border-radius: 5px;
+}
+
+.card-title{
+	font-family: 'Sansita Swashed', cursive;
+	color: rgb(238, 36, 137);
+}
+
+#result{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+}
+.user-card{
+	width: 185px !important;
+	height: 100px !important;
+	margin-left: 33px !important;
+}
